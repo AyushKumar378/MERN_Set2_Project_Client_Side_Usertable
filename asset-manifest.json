@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN_Set2_Project_Client_Side_Usertable/static/css/main.60e27684.css",
+    "main.js": "/MERN_Set2_Project_Client_Side_Usertable/static/js/main.bffbb988.js",
+    "index.html": "/MERN_Set2_Project_Client_Side_Usertable/index.html",
+    "main.60e27684.css.map": "/MERN_Set2_Project_Client_Side_Usertable/static/css/main.60e27684.css.map",
+    "main.bffbb988.js.map": "/MERN_Set2_Project_Client_Side_Usertable/static/js/main.bffbb988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e27684.css",
+    "static/js/main.bffbb988.js"
+  ]
+}
